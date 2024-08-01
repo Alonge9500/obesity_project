@@ -16,7 +16,7 @@ with open ('scaler.pkl','rb') as scaler_file:
 
 #Start Streamlit APP
 
-st.title('Obesity Check')
+st.title('Obesity Web APP')
 st.header('Fill in the following details', divider='rainbow')
 
 
